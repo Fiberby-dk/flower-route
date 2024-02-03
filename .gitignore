@@ -1,0 +1,4 @@
+.*.swp
+.objs
+.checkpatch
+flower-routed
