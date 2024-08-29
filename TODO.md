@@ -2,3 +2,5 @@
 - Proper ECMP (Equal Cost Multipath) support
 - handle MTU differences: only offload normal packets <= 1500 MTU
 - automatically create ingress qdisc if missing
+- Option for reverse path forwarding ([BCP 38](https://www.rfc-editor.org/info/bcp38)).
+- Usage docs and examples
